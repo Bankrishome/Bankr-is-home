@@ -1,4 +1,4 @@
-# 🏦 Bankr ($BANKR) - The Future of Banking on Base
+# 🏦 Bankr Is Home ($BANKRHOME) - The Future of Banking on Base
 
 ![Base Network](https://img.shields.io/badge/Network-Base-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -22,7 +22,7 @@ Bankr simplifies the complex world of DeFi into a user-friendly "Neobank" experi
 
 ---
 
-## 💎 Tokenomics ($BANKR)
+## 💎 Tokenomics ($BANKRHOME)
 
 $BANKR is the native utility and governance token of the Bankr ecosystem.
 
