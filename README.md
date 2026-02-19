@@ -46,17 +46,17 @@ $BANKR is the native utility and governance token of the Bankr ecosystem.
 
 ## 📅 Roadmap
 
-### Phase 1: The Blueprint (Q1 2024)
+### Phase 1: The Blueprint (Q1 2026)
 - [ ] Smart Contract Audit.
 - [ ] Fair Launch on Aerodrome Finance.
 - [ ] Community "The Home" Launch (Discord/Telegram).
 
-### Phase 2: The Vaults (Q2 2024)
+### Phase 2: The Vaults (Q2 2026)
 - [ ] Deployment of Auto-Compounder Vaults.
 - [ ] Integration with Coinbase Smart Wallet.
 - [ ] Governance Dashboard (Snapshot).
 
-### Phase 3: The Neobank (Q3 2024)
+### Phase 3: The Neobank (Q3 2026)
 - [ ] Mobile-First dApp Launch.
 - [ ] Virtual Crypto-to-Fiat Debit Card Alpha.
 - [ ] Institutional Onboarding Program.
